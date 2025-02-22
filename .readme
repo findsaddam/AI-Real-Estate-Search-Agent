@@ -1,0 +1,23 @@
+# Project Setup Guide
+
+<h1>Smart Real Estate AI Search Agent Multi LLM, Firecrawl,GROQ, and LangChain</h1>
+
+Set GROQ and FireCrawl API's
+
+https://www.firecrawl.dev/
+https://console.groq.com/
+
+
+#### Install Dependencies:
+```
+pip install -r req.txt
+```
+
+##  Setup Frontend with Streamlit
+```
+streamlit run ai_real_estate_agent.py
+```
+
+
+
+
